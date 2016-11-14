@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 8c01b53dc36bd4ce19acf12981cc8290
+timeCreated: 1449747914
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hello_kitty_bubbles_png_by_jssanda-d53567z_0
+    21300002: hello_kitty_bubbles_png_by_jssanda-d53567z_1
+    21300004: hello_kitty_bubbles_png_by_jssanda-d53567z_2
+    21300006: hello_kitty_bubbles_png_by_jssanda-d53567z_3
+    21300008: hello_kitty_bubbles_png_by_jssanda-d53567z_4
+    21300010: hello_kitty_bubbles_png_by_jssanda-d53567z_5
+    21300012: hello_kitty_bubbles_png_by_jssanda-d53567z_6
+    21300014: hello_kitty_bubbles_png_by_jssanda-d53567z_7
+    21300016: hello_kitty_bubbles_png_by_jssanda-d53567z_8
+    21300018: hello_kitty_bubbles_png_by_jssanda-d53567z_9
+    21300020: hello_kitty_bubbles_png_by_jssanda-d53567z_10
+    21300022: hello_kitty_bubbles_png_by_jssanda-d53567z_11
+    21300024: hello_kitty_bubbles_png_by_jssanda-d53567z_12
+    21300026: hello_kitty_bubbles_png_by_jssanda-d53567z_13
+    21300028: hello_kitty_bubbles_png_by_jssanda-d53567z_14
+    21300030: hello_kitty_bubbles_png_by_jssanda-d53567z_15
+    21300032: hello_kitty_bubbles_png_by_jssanda-d53567z_16
+    21300034: hello_kitty_bubbles_png_by_jssanda-d53567z_17
+    21300036: hello_kitty_bubbles_png_by_jssanda-d53567z_18
+    21300038: hello_kitty_bubbles_png_by_jssanda-d53567z_19
+    21300040: hello_kitty_bubbles_png_by_jssanda-d53567z_20
+    21300042: hello_kitty_bubbles_png_by_jssanda-d53567z_21
+    21300044: hello_kitty_bubbles_png_by_jssanda-d53567z_22
+    21300046: hello_kitty_bubbles_png_by_jssanda-d53567z_23
+    21300048: hello_kitty_bubbles_png_by_jssanda-d53567z_24
+    21300050: hello_kitty_bubbles_png_by_jssanda-d53567z_25
+    21300052: hello_kitty_bubbles_png_by_jssanda-d53567z_26
+    21300054: hello_kitty_bubbles_png_by_jssanda-d53567z_27
+    21300056: hello_kitty_bubbles_png_by_jssanda-d53567z_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 764
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 824
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 806
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 700
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 805
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 801
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 668
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 590
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 609
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_9
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 698
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 619
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 449
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 492
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 480
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_14
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 359
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 305
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 404
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 420
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 280
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 279
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 216
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_21
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 209
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 91
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 18
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 25
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_25
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 80
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 34
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 16
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hello_kitty_bubbles_png_by_jssanda-d53567z_28
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 12
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
